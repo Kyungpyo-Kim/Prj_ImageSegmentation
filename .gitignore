@@ -1,0 +1,5 @@
+data/full_cityscapes_res/*
+out/*
+*.pyc
+experiments/*
+.vscode/*
