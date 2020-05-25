@@ -21,6 +21,10 @@ dataset
 ## ShuffleSeg
 * Shufflenet 은 ImageNet 의 pretrained weights 를 사용한다.
 
+## TODO
+* tensorflow 2.0 으로 옮기기
+
+
 ## Warnings
 2020-05-25 21:35:00.946924: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
 * Tensorflow 를 다시 빌드해서 사용하기를 권장, 학습 속도 향상에 도움이 된다.
